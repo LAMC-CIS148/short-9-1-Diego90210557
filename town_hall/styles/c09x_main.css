@@ -201,6 +201,7 @@ footer p {
 	}
 	aside {
 	    order: 2;
+		flex-wrap:wrap;
 		padding-right: 2.5%;
 		width: 95%;
 	}
