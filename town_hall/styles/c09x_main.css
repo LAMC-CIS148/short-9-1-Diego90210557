@@ -186,6 +186,7 @@ footer p {
 	header img { float: none; }
 	header {
         display: flex;
+	flex-wrap:wrap;
         text-align: center;
     }
     header, footer {
